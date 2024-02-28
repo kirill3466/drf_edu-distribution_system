@@ -9,4 +9,4 @@ git clone https://github.com/kirill3466/testovoe-zadanie-hardqode.git
 ```
 python manage.py runserver
 ```
-Два пользователя admin(password: admin), student(password: student)
+Два супер пользователя admin(password: admin), student(password: student)

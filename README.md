@@ -3,7 +3,7 @@
 Запуск:
 Склонировать репозиторий:
 ```
-git clone https://github.com/kirill3466/testovoe-zadanie-rishat.git
+git clone https://github.com/kirill3466/testovoe-zadanie-hardqode.git
 ```
 Запустить сервер
 ```

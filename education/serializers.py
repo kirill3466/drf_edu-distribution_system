@@ -5,7 +5,6 @@ from rest_framework import serializers
 from .models import Access, Lesson, Product
 
 
-# Сериализатор для продукта
 class ProductSerializer(serializers.ModelSerializer):
     lesson_count = serializers.IntegerField(
         source='lessons.count', read_only=True
